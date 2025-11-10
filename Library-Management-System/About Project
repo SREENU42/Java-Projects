@@ -1,0 +1,19 @@
+# Library Management System (Java)
+
+## Project Overview
+The **Library Management System** is a Java console application that allows users to add books, search for books, borrow books, and return them.  
+This project helped me apply **Object-Oriented Programming principles** such as Encapsulation, Classes & Objects, and Collections (`ArrayList`) to manage records efficiently.
+
+## Features
+- Add new books to the library
+- Search books by title or author
+- Borrow and return books
+- Tracks availability status of each book
+
+## Concepts Used
+| Concept | Usage |
+|---------|--------|
+| Encapsulation | Book details are stored as private fields |
+| Classes & Objects | `Book` and `Library` classes manage behavior |
+| Methods | `borrowBook()`, `returnBook()`, `searchBook()` |
+| ArrayList | Used to store multiple book records dynamically |
