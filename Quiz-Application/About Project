@@ -1,0 +1,19 @@
+# Quiz Application (Java)
+
+## Project Overview
+The **Quiz Application** is a Java console-based program that displays multiple-choice questions, accepts user answers, and calculates the final score.  
+This project helped me understand how to structure programs using **Classes, Encapsulation, and Polymorphism** (method overloading for scoring logic).
+
+## Features
+- Stores questions and correct answers
+- Displays one question at a time
+- Calculates total score based on correct answers
+- Simple and interactive menu-driven flow
+
+## Concepts Used
+| Concept | Usage |
+|---------|--------|
+| Encapsulation | Question data stored in a class with private fields |
+| Classes & Objects | `Question` and `Quiz` classes handle logic |
+| Polymorphism (method overloading) | Scoring method can accept different inputs |
+| Array / ArrayList | Used to hold the list of quiz questions |
