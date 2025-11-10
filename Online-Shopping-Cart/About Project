@@ -1,0 +1,19 @@
+# Online Shopping Cart (Java)
+
+## Project Overview
+The **Online Shopping Cart** is a Java console-based application that allows users to browse products, add items to cart, remove items, and generate a final bill.  
+This project demonstrates the use of **Object-Oriented Programming concepts** and Java collections to simulate a basic e-commerce workflow.
+
+## Features
+- View available products
+- Add and remove items from cart
+- Generate bill with total amount
+- Quantity-based calculation
+
+## Concepts Used
+| Concept | Usage |
+|---------|--------|
+| Encapsulation | Product details are private fields |
+| Classes & Objects | `Product`, `Cart`, `ShoppingApp` classes |
+| ArrayList | Stores cart items dynamically |
+| Methods | `addToCart()`, `removeFromCart()`, `generateBill()` |
