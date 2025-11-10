@@ -1,0 +1,19 @@
+# Vehicle Management System (Java)
+
+## Project Overview
+The **Vehicle Management System** is a Java console-based application that allows users to manage different types of vehicles using Object-Oriented Programming concepts.  
+The project demonstrates **Encapsulation, Inheritance, and Polymorphism** through vehicle categories like Cars, Bikes, and Trucks.
+
+## Features
+- Add and view vehicle details
+- Categorize vehicles based on type
+- Calculate service charges (method overriding for different vehicle types)
+- Display formatted vehicle report
+
+## Concepts Used
+| Concept | Purpose |
+|---------|---------|
+| Classes & Objects | Vehicle objects represent real-world entities |
+| Inheritance | Car, Bike, and Truck inherit from base `Vehicle` class |
+| Polymorphism (Method Overriding) | Each vehicle type calculates service cost differently |
+| Encapsulation | Private fields with getters/setters to protect data |
