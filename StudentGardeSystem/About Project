@@ -1,0 +1,19 @@
+# Student Grade Management System (Java)
+
+## Project Overview
+The **Student Grade Management System** is a Java console-based application that allows users to enter student details, calculate total marks, determine grade, and generate a results summary.  
+This project helped me understand **Encapsulation, Classes, Objects, and Conditional Logic** in Java.
+
+## Features
+- Add student details (name, roll number, subject marks)
+- Calculate total and average marks
+- Assign grade based on performance
+- Display formatted report
+
+## Concepts Used
+| Concept | Usage |
+|---------|--------|
+| Encapsulation | Student marks and details stored in private fields |
+| Classes & Objects | `Student` class to store data, separate class for grade logic |
+| Conditional Statements | Used for grading based on score range |
+| Arrays / Loops | Store and process multiple student records |
